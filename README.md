@@ -1,4 +1,4 @@
-# Cracow real state prices prediction 
+# Cracow Real State Prices Prediction 
 
 <strong> This project is related to a contest posted on Kaggle.com for predicting real estate prices on the market in Poland. </strong> 
 
